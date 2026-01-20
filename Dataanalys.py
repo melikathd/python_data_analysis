@@ -24,9 +24,3 @@ result = analyz_data(names, numbers)
 print("the longest name is :", result)
 
 
-
-
-names = ["Maryam", "lila", "mohammadreza", "lilin"]
-numbers = [13, 15, 4, 5, 25, 21]
-result = analyz_data(names, numbers)
-print("the longest name is :", result)
